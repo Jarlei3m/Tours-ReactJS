@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 64px;
+
+  width: 100%;
+}
+
+header {
+  margin-top: 68px;
+
+  font-size: 40px;
+  color: #063251;
+  letter-spacing: 1.5px;
+  padding: 6px 0;
+}
+
+.line {
+  height: 4px;
+  width: 95px;
+  background-color: #49a6e9;
+}
